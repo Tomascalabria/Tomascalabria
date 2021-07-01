@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning these technologies: HTML,Css and JavaScript.
 - 📫 How to reach me <a href= "mailto: totocalabria.tc@gmail.com" </a> or
 - 
--   <  <a href=https:"//www.linkedin.com/in/tomasgcalabria/" ><a href="https://www.freepnglogos.com/pics/linkedin-logo-png" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-png-16.png" width="200" alt="linkedin logo transparent png" /></a>  </a>
+-   <  <a href="https://www.freepnglogos.com/pics/linkedin-logo-png" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-png-16.png" width="200" alt="linkedin logo transparent png" /> <a href=https:"//www.linkedin.com/in/tomasgcalabria/" ></a>  </a>
 
 <!---
 Tomascalabria/Tomascalabria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

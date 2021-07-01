@@ -8,7 +8,7 @@
 - 📫 How to reach me <a href= "mailto: totocalabria.tc@gmail.com" </a> or
 - 
 
-<a href="https://www.linkedin.com/in/tom%C3%A1s-gabriel-calabria-942a5a141/?locale=en_US" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" width="200" alt="linkedin logo design" /></a>
+<a href="https://www.linkedin.com/in/tom%C3%A1s-gabriel-calabria-942a5a141/?locale=en_US" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" width="100px" heigth="100px" alt="linkedin logo design" /></a>
 <!---
 Tomascalabria/Tomascalabria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

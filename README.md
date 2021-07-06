@@ -7,9 +7,10 @@
 - 🌱 I’m currently learning these technologies: HTML,Css and JavaScript.
 - 📫 How to reach me <a href= "mailto: totocalabria.tc@gmail.com" </a> or
 - 
-
+<p>
 <a href="https://www.linkedin.com/in/tom%C3%A1s-gabriel-calabria-942a5a141/?locale=en_US" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" width="50px" heigth="50px" alt="linkedin logo design" /></a>
 <a href="https://www.instagram.com/tomascalabria/?hl=es-la" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/instagram-logo-png-hd-31.png" width="40px" heigth="60px" alt="instagram logo png hd" /></a>
+  </p>
 <!---
 Tomascalabria/Tomascalabria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

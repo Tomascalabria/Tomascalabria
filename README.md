@@ -4,8 +4,8 @@
 - 👋 Hi, I’m @Tomascalabria
 - 👀 I’m interested in learning and hopefuly in the future, getting the chance of developing myself as a full stack developer and keep on learning new techonologies day by day.
 - Also i am a law student.
-- 🌱 I’m currently learning these technologies: HTML,Css and JavaScript.
-- 📫 How to reach me <a href= "mailto: totocalabria.tc@gmail.com" </a> or
+- 🌱 I’m currently learning these technologies: Backend with Node.
+- 📫 How to reach me  totocalabria.tc@gmail.com or
 - 
 <p style="display:inline;"> 
 <a href="https://www.linkedin.com/in/tom%C3%A1s-gabriel-calabria-942a5a141/?locale=en_US" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" width="50px" heigth="50px" alt="linkedin logo design" /></a>

@@ -6,12 +6,19 @@
 - Also i am a law student.
 - 🌱 I’m currently learning these technologies: Backend with Node.
 - 📫 How to reach me  totocalabria.tc@gmail.com or
-- 
-<p style="display:inline;"> 
-<a href="https://www.linkedin.com/in/tom%C3%A1s-gabriel-calabria-942a5a141/?locale=en_US" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" width="50px" heigth="50px" alt="linkedin logo design" /></a>
-<a href="https://www.instagram.com/tomascalabria/?hl=es-la" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/instagram-logo-png-hd-31.png" width="40px" heigth="60px" alt="instagram logo png hd" /></a>
-  </p>
-<!---
-Tomascalabria/Tomascalabria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-```python
+class Tomas_G_Calabria():
+    
+  def __init__(self):
+    self.name = "Tomas Gabriel Calabria";
+    self.username = "TomasCalabria";
+    self.location = "Buenos Aires, Argentina";
+    self.twitter = "@70M4SC4L48";
+    self.portfolio = "In progress...";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = Tomas_G_Calabria()
+```

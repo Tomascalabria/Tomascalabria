@@ -10,7 +10,8 @@ class Tomas_G_Calabria():
     self.portfolio = "In progress...";
     self.email="totocalabria.tc@gmail.com"
     self.objectives= "👀 I’m interested in learning and hopefuly in the future, getting the chance of developing myself as a full stack developer and keep on learning new techonologies day by day."
-    self.techonologies=[React Js, Node Js, Django, SQL, Mongo]
+    self.techonologies=['React Js', 'Node Js', 'Django','SQL','Mongo']
+
   def __str__(self):
     return self.name
 

@@ -18,7 +18,7 @@
 
 ## 📚 Learning
 I am Currrently trying to learn more and get better in the following languages / frameworks:
-- <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png" width="18px" heigth="18px"/> Next.JS.
+- <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="18px" heigth="18px"/> Next.JS.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="18px" heigth="18px"/> TypeScript.
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdlSAUujNO5gjkvWaSBlW7FFPpDWY9xkFHUQ&usqp=CAU" width="18px" heigth="18px"/> Django 
 

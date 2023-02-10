@@ -1,5 +1,5 @@
 <h1 align="center">Tomás Calabria</h1>
-<h3 align="center">Web development entusiast from 🇦🇷 Argentina </h3> 
+<h3 align="center">Web development entusiast from</h3><h3 color="light-blue"> Argentina </h3> 
 
 
 ## 💬 Ask me about

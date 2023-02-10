@@ -1,5 +1,5 @@
 <h1 align="center">Tomás Calabria</h1>
-<h3 align="center">Web development entusiast from Colombia</h3>
+<h3 align="center">Web development entusiast from Argentina</h3>
 
 ## 💬 Ask me about
 - Backend web development (Python, Node.js)
@@ -7,20 +7,20 @@
 - Gardening (Bonsai enthusiast :evergreen_tree:)
 
 ## 📅 Hobbies
-- 
-- Watch anime and TV shows
-- Read some manga
-- Play videogames
-- etc...
+
+- 📘 Read books.
+- ⚽ Play soccer.
+- 🎥 Watch movies.
 
 ## 💻 Current project
 - [Store - (La Tiendita](https://github.com/Tomascalabria/Store)
-- 
+
+
 ## 📚 Learning
 I am Currrently trying to learn more and get better in the following languages / frameworks.
 - Learning Next.JS on Udemy. 
 - TypeScript - Youtube.
-- Django - Youtube
+- ![image](https://user-images.githubusercontent.com/81932784/218170747-623b6277-949d-4686-9826-9c856f812a4b.png =30px) Django - Youtube
 
 ## 📈 GitHub stats.
 

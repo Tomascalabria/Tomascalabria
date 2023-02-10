@@ -4,7 +4,7 @@
 ## 💬 Ask me about
 - Backend web development (Python, Node.js)
 - Frontend web development (ReactJS, Next.JS)
-- Law (lawyer ⚖️ and Data Protection entusiast)
+- Law (I am also a Lawyer graduated in argentina ⚖️ and a Data Protection entusiast)
 
 ## 📅 Hobbies
 
@@ -13,7 +13,7 @@
 - 🎥 Watch movies.
 
 ## 💻 Current project
-- [Store - (La Tiendita](https://github.com/Tomascalabria/Store)
+- [Store - (La Tiendita)](https://github.com/Tomascalabria/Store)
 
 
 ## 📚 Learning

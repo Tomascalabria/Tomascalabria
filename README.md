@@ -20,7 +20,7 @@
 I am Currrently trying to learn more and get better in the following languages / frameworks.
 - Learning Next.JS on Udemy. 
 - TypeScript - Youtube.
-- ![image](https://user-images.githubusercontent.com/81932784/218170747-623b6277-949d-4686-9826-9c856f812a4b.png =24x24) Django - Youtube
+- <img src="https://user-images.githubusercontent.com/81932784/218170747-623b6277-949d-4686-9826-9c856f812a4b.png" width="24px" heigth="24px"> Django - Youtube
 
 ## 📈 GitHub stats.
 

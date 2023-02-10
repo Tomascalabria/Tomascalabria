@@ -1,10 +1,10 @@
 <h1 align="center">Tomás Calabria</h1>
-<h3 align="center">Web development entusiast from Argentina</h3>
+<h3 align="center">Web development entusiast from 🇦🇷 Argentina 🇦🇷</h3>
 
 ## 💬 Ask me about
 - Backend web development (Python, Node.js)
 - Frontend web development (ReactJS, Next.JS)
-- Gardening (Bonsai enthusiast :evergreen_tree:)
+- Law (lawyer ⚖️ and Data Protection entusiast)
 
 ## 📅 Hobbies
 

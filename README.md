@@ -18,3 +18,5 @@ class Tomas_G_Calabria():
 if __name__ == '__main__':
     me = Tomas_G_Calabria()
 ```
+[![Tomas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomascalabria)](https://github.com/anuraghazra/github-readme-stats)
+

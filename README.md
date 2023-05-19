@@ -2,16 +2,6 @@
 <h3 align="center">Web development entusiast from <span color="blue"> Argentina </span></h3> 
 
 
-## 💬 Ask me about
-- Backend web development ( Python, Node.js )
-- Frontend web development ( ReactJS, Next.JS )
-- Law ( I am also a Lawyer  ⚖️ and a Data Protection entusiast )
-
-## 📅 Hobbies
-
-- 📘 Read books.
-- ⚽ Play soccer.
-- 🎥 Watch movies.
 
 ## 💻 Current project
 - [Store - ( La Tiendita )](https://github.com/Tomascalabria/Store)

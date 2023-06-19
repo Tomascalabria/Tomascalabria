@@ -1,12 +1,9 @@
 <h1 align="center">Tomás Calabria</h1>
-<h3 align="center">Web development entusiast from <span color="blue"> Argentina </span></h3> 
 
 
 
 ## 💻 Current project
 - [Gestor de Finanzas](https://github.com/Tomascalabria/Gestor-de-Finanzas)
-- [Store - ( La Tiendita )](https://github.com/Tomascalabria/Store)
-
 
 ## 📚 Learning
 I am currrently learning and trying to improve my skills in the following languages / frameworks:

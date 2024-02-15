@@ -3,7 +3,7 @@
 
 
 ## 💻 Current project
-- [Gestor de Finanzas](https://github.com/Tomascalabria/Gestor-de-Finanzas)
+- [FinAnalitycs](https://github.com/Tomascalabria/FinAnalitycs)
 
 ## 📚 Learning
 I am currrently learning and trying to improve my skills in the following languages / frameworks:

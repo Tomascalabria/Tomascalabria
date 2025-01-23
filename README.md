@@ -3,7 +3,7 @@
 
 
 ## 💻 Current project
-- [FinAnalitycs](https://github.com/Tomascalabria/FinAnalitycs)
+- [OKR](https://github.com/Tomascalabria/OKR)
 
 ## 📚 Learning
 I am currrently learning and trying to improve my skills in the following languages / frameworks:
